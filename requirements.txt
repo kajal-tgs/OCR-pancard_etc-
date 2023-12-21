@@ -1,0 +1,16 @@
+flask
+torch
+beautifulsoup4
+python-dotenv
+easyocr
+pillow
+ftfy
+numpy
+boto3
+opencv-python
+regex
+zappa
+openai
+requests
+google-generativeai
+langchain
